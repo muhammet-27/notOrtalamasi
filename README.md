@@ -8,3 +8,5 @@ kullanıcıdan girilen bir miktarın kdv tutarlı, kdv tutarsız ve kdv oranı �
 kullanıcıdan km bilgisini alıp km tutarını belirleyen ve km tutarının büyük veya küçük olma durumuna göre ekrana minimum alınacak ücret ya da toplam alınacak ücretini yazan bir program 
 # daireninCevresiAlaniHesaplama odev5
 kullanıcıdan yarıçap ve merkez açısının ölçüsü alındıktan sonra dairenin çevresini alanını ve merkez açısının değerini hesaplayan bir program
+# vki odev6
+kullanıcıdan boy ve kilo bilgisini alan ve sonrasında vücut kitle endeksini bulan bir program.
