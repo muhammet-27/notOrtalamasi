@@ -4,3 +4,5 @@ java ile kullanıcıdan alınan notların ortalamasını bulan ve aynı zamanda 
 kullanıcıdan girilen bir miktarın kdv tutarlı, kdv tutarsız ve kdv oranı çıktı olarak verilen bir program aynı zamanda tutar belli aralıklarda olursa %18'lik kdv uygulanacak aralıkların dışında olursa %8'lik bir oran uygulanacak.
 # hipotenusHesaplama odev3
 2 üçgenin açısını kullanıcıdan alıp bunların karesiyle dik üçgenin karşısındaki kenarın karesini yani hipotenüsünü ve aynı zamanda bu üçgenin çevresini bulan bir program 
+# km_tutari odev4
+kullanıcıdan km bilgisini alıp km tutarını belirleyen ve km tutarının büyük veya küçük olma durumuna göre ekrana minimum alınacak ücret ya da toplam alınacak ücretini yazan bir program 
