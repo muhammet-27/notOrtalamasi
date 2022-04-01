@@ -10,3 +10,5 @@ kullanıcıdan km bilgisini alıp km tutarını belirleyen ve km tutarının bü
 kullanıcıdan yarıçap ve merkez açısının ölçüsü alındıktan sonra dairenin çevresini alanını ve merkez açısının değerini hesaplayan bir program
 # vki odev6
 kullanıcıdan boy ve kilo bilgisini alan ve sonrasında vücut kitle endeksini bulan bir program.
+# meyveKasa odev7 
+kullanıcıdan meyve miktarlarını alıp ekrana seçilen ürünlerin fiyatını yazdıran bir program 
